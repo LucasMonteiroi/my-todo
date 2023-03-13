@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LucasMonteiroi/my-todo.git"
+    "url": "git@github.com:LucasMonteiroi/my-todo.git"
   },
   "author": "Lucas Monteiro Inaci <lmsupport@outlook.com>",
   "license": "MIT",
