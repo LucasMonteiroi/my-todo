@@ -144,3 +144,6 @@ terraform/.terraform
 
 # todo extension
 *.todo
+
+# act files
+.secrets
